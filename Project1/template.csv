@@ -1,0 +1,8 @@
+Улица, время;Тип автомобиля;Число единиц автотранспорта;;;;
+;;1;2;3;Средн.;Состав, %
+ул.;Легкий грузовой;<EDIT><LGRUZDATA>0;<EDIT><LGRUZDATA>0;<EDIT><LGRUZDATA>0;<LGRUZAV>;<LGRUZPERC>
+Новоастраханское;Средний грузовой;<EDIT><SGRUZDATA>0;<EDIT><SGRUZDATA>0;<EDIT><SGRUZDATA>0;<SGRUZAV>;<SGRUZPERC>
+шоссе;Тяжелый грузовой (дизельный);<EDIT><TGRUZDATA>0;<EDIT><TGRUZDATA>0;<EDIT><TGRUZDATA>0;<TGRUZAV>;<TGRUZPERC>
+05.02.2016;Автобус;<EDIT><BUSDATA>0;<EDIT><BUSDATA>0;<EDIT><BUSDATA>0;<BUSAV>;<BUSPERC>
+12:00-13:00;Легковой;<EDIT><CARDATA>0;<EDIT><CARDATA>0;<EDIT><CARDATA>0;<CARAV>;<CARPERC>
+;;;;Итого:;<AVSUM>;<PERCSUM>

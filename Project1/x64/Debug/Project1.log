@@ -1,0 +1,8 @@
+﻿  MainForm.cpp
+C:\Users\Алексей\source\repos\CarsCount\Project1\Project1\MainForm.cpp(47,23): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\Алексей\source\repos\CarsCount\Project1\Project1\MainForm.cpp(103,24): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\Алексей\source\repos\CarsCount\Project1\Project1\MainForm.cpp(110,28): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+  main.cpp
+  Создание кода...
+  main.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\Алексей\source\repos\CarsCount\Project1\x64\Debug\Project1.exe

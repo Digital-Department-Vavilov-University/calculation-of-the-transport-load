@@ -1,0 +1,4 @@
+C:\Users\Алексей\source\repos\CarsCount\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\CarsCount\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Алексей\source\repos\CarsCount\Project1\Project1\x64\Debug\Project1.MainForm.resources
+C:\Users\Алексей\source\repos\CarsCount\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
